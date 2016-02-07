@@ -1,0 +1,33 @@
+Nodos creados: 57
+Profundidad m�xima del �rbol: 10
+Tabla de codificaci�n generada:
+Simbolo:	Codigo
+ 		111
+,		1101011
+.		011111
+a		1010
+b		1101010
+c		110100
+d		11001
+e		010
+f		101101
+g		101100
+h		0000
+i		1000
+j		011110000
+k		01111001
+l		11011
+m		110000
+n		0110
+o		0011
+p		101110
+q		01111000101
+r		0010
+s		0001
+t		1001
+u		01110
+v		0111101
+w		110001
+x		01111000100
+y		101111
+z		0111100011
